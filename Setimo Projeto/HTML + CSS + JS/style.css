@@ -1,0 +1,130 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    background-color: rgb(249, 39, 52);
+    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    
+}
+
+h1{
+    color: rgb(109, 109, 109);
+}
+
+.LOGO1{
+    margin-left: 270px;
+    padding: 25px;
+    width: 162px;
+}
+
+.DIV1{
+    max-width: 400px;
+    margin: auto;
+}
+
+.DIVTEXT1{
+   
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.DIVSUP{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    gap: 10px;
+    padding-bottom: 20px;
+}
+
+.DIVLOG{
+    font-size: 30px;
+}
+
+.asterisco{
+    color: red;
+}
+.DIVEMAIL{
+    margin-left: 25px;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    width: 360px;
+    height: 47px;
+    border-radius: 9px;
+    border: solid gray 1px;
+}
+
+.DIVSENHA{
+    margin-left: 25px;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.DIVREDF{
+    margin-right: 25px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.space {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.BUTTON{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.BOTAO{
+
+    width: 360px;
+    height: 47px;
+    border-radius: 9px;
+    border: 0;
+    background-color: rgb(249, 39, 52);
+    color: white;
+    font-size: 17px;
+
+}
+
+.DIVTEXT2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+a{
+    color: rgb(104, 104, 104);
+}
+
+.DIVTEXT3{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.DIVPAR1{
+    font-size: 15px;
+}
+.DIVPAR2{
+    font-size: 15px;
+    text-align: center;
+}
