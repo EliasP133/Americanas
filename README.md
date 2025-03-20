@@ -1,2 +1,2 @@
-# Americanas2
+# Americanas
 Opa
